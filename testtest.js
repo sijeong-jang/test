@@ -10,3 +10,4 @@ var memberObject = {
 console.log("memberObject.designer", memberObject.designer);
 console.log("memberObject.developer", memberObject.developer);
 
+console.log("memberObject.developer", memberObject.developer);
